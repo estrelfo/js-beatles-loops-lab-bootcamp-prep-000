@@ -25,6 +25,6 @@ function iLoveTheBeatles (number)
   array = [];
   do {
     
-  } while ();
+  } while (number < 15);
   
 }
